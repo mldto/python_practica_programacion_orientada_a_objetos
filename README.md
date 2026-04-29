@@ -331,6 +331,5 @@ print(prueba.mi_atributo)
 ```
 
 > [!NOTE]
-
 > Este código pertenece a la práctica 10.
 
