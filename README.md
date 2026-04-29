@@ -330,6 +330,6 @@ prueba = Prueba("Hola Mundo")
 print(prueba.mi_atributo)
 ```
 
-> [!NOTE]Nota
+> [!NOTE]
 > Este código pertenece a la práctica 10.
 
