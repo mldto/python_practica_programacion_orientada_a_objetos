@@ -304,3 +304,33 @@ class Diez(Siete, Ocho, Nueve):
 print(Diez.__mro__) # El orden es Diez, Siete, Ocho, Nueve, object.
 ```
 
+## Decoradores
+
+### Decorador Property
+
+#### Básica
+```python
+# Programación Orientada a Objetos
+
+# Decorador Property
+
+'''
+
+'''
+
+class Prueba:
+    def __init__(self, mi_atributo):
+        self.__mi_atributo = mi_atributo
+
+    @property
+    def mi_atributo(self):
+        return self.__mi_atributo
+
+prueba = Prueba("Hola Mundo")
+print(prueba.mi_atributo)
+```
+
+> [!INFO]
+
+> Este código pertenece a la práctica 10.
+
