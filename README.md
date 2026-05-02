@@ -333,3 +333,9 @@ print(prueba.mi_atributo)
 > [!NOTE]
 > Este código pertenece a la práctica 10.
 
+
+> [!WARNING]
+> Se han agregado dos ejercicios de prácticas a orientados a objetos. Estos son:
+> 1. facturacion.py
+> 2. oop_de_vehiculos.py
+
